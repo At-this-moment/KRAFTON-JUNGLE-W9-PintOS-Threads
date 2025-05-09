@@ -1,0 +1,5 @@
+FAIL
+Kernel panic in run: PANIC at %s:%d in %s(): assertion `%s' failed.
+Call stack:
+Translation of call stack:
+usage: /workspaces/pintos_lab_docker/pintos-kaist/utils/backtrace addr ...
